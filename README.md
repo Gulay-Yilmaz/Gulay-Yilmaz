@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gülay YILMAZ</h1>
-<h3 align="center">A passionate software developer intern in Doğuş Technology</h3>
+<h3 align="center">A passionate software developer in Doğuş Technology</h3>
 
 - 🌱 I’m currently learning **React, C#**
 
