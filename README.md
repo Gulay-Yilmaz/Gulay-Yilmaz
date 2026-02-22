@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gülay YILMAZ</h1>
 <h3 align="center">A passionate software developer specialist in Doğuş Technology</h3>
 
-- 🌱 I’m currently working **React, Next.js, C#, .Net**
+- 🌱 I’m currently working **React, Next.js, C#, .Net, Java(SpringBoot)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Gulay-Yilmaz](https://github.com/Gulay-Yilmaz)
 
